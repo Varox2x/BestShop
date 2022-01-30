@@ -25,7 +25,7 @@
 }
 
 .container {
-    width: 1352px;
+    max-width: 1352px;
     margin: auto;
     /*border: 3px solid red;*/
 }
@@ -747,6 +747,9 @@ nav a:hover {
 .contact_section {
     display: flex;
     padding-top: 100px;
+    width: 1352px;
+    margin: auto;
+    justify-content: center;
 }
 
 .contact_column {
