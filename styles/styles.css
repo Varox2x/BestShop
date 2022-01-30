@@ -748,8 +748,8 @@ nav a:hover {
     display: flex;
     padding-top: 100px;
     width: 1352px;
-    margin: auto;
     justify-content: center;
+    margin: auto;
 }
 
 .contact_column {
@@ -785,10 +785,6 @@ nav a:hover {
 }
 
 .contact_column_left {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    padding-left: 80px;
 }
 
 .contact_buttons a:first-child::before {
